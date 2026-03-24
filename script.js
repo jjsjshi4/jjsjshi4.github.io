@@ -93,7 +93,7 @@ faceMesh.onResults((results) => {
     }
 
   } else {
-    statusText.innerText = "未检测到人脸";
+    statusText.innerText = "未检测到脸";
   }
 });
 
